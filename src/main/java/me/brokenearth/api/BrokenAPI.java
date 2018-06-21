@@ -23,8 +23,8 @@ import java.util.concurrent.TimeUnit;
  *
  * This is the main class of the API
  * You need to use the register method to use it
- * @author BrokenEarth
- * @version 1.0
+ * @author BrokenEarth // BrokenEarthDev
+ * @version 1.1
  */
 public abstract class BrokenAPI extends ListenerAdapter {
 

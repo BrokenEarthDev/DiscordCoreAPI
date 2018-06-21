@@ -28,7 +28,7 @@ import java.util.HashMap;
  * @see CommandEvent
  * @see CommandExecutor
  * @author BrokenEarth
- * @version 1.0
+ * @version 1.1
  */
 public final class Command extends ListenerAdapter {
 

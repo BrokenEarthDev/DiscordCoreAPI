@@ -23,9 +23,10 @@ import net.dv8tion.jda.core.hooks.ListenerAdapter;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  * Triggered when someone types the command prefix or the prefix and other words followed by it
+ *
  * @see Command
- * @author BrokenEarth
- * @version 1.0
+ * @author BrokenEarth // BrokenEarthDev
+ * @version 1.1
  */
 public final class CommandEvent {
 

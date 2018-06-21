@@ -22,7 +22,7 @@ import java.awt.*;
  *
  *
  * This is a very simple class that simplifies (not as much) the EmbedBuilder
- * @author BrokenEarth
+ * @author BrokenEarth // BrokenEarthDev
  * @version 1.0
  */
 public final class EmbedBuilder {
